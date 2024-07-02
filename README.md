@@ -69,7 +69,7 @@ Antes de começar, verifique se atendeu aos seguintes requisitos:
 Clone o repositório
 
 ```bash
-git clone https://github.com/MatheusRamalho/quiz-questions
+git clone https://github.com/MatheusRamalho/digital-battery
 ```
 
 Utilize o **npm** para instalar as dependências do projeto.
